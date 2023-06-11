@@ -31,6 +31,7 @@
             
         }
     }
+    //challapuramkarthikchary@gmail.com
     
     public void enable(){
     jTextField1.setEnabled(true);
@@ -144,7 +145,7 @@
                 jRadioButton1ActionPerformed(evt);
             }
         });
-
+//challapuramkarthikchary@gmail.com
         buttonGroup1.add(jRadioButton2);
         jRadioButton2.setFont(new java.awt.Font("Tahoma", 1, 10)); 
         jRadioButton2.setForeground(new java.awt.Color(255, 255, 255));
@@ -264,7 +265,7 @@
                 jButton12ActionPerformed(evt);
             }
         });
-
+//challapuramkarthikchary@gmail.com
         jButton13.setBackground(new java.awt.Color(102, 102, 102));
         jButton13.setFont(new java.awt.Font("Tahoma", 1, 18)); 
         jButton13.setForeground(new java.awt.Color(255, 255, 255));
@@ -620,5 +621,5 @@
     private javax.swing.JRadioButton jRadioButton1;
     private javax.swing.JRadioButton jRadioButton2;
     private javax.swing.JTextField jTextField1;
-                  
+  //challapuramkarthikchary@gmail.com                
 }
